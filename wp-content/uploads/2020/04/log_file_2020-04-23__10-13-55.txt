@@ -1,0 +1,113 @@
+
+---Downloaded files---
+The import files for: All Pages were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://online.petracc.org
+Data file = /home2/mactavi1/public_html/online/wp-content/uploads/2020/04/demo-content-import-file_2020-04-23__10-13-55.xml
+Widget file = /home2/mactavi1/public_html/online/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-23__10-13-55.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import product_cat Chairs
+[WARNING] Failed to import pa_store Covina
+[WARNING] Failed to import product_tag Creative
+[WARNING] Failed to import product_cat Everyday essentials
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_store San Diego
+[WARNING] Failed to import product_tag Shop
+[WARNING] Failed to import product_cat Summer discount
+[WARNING] Failed to import product_tag WordPress
+
+
+---Importing widgets---
+Blog : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+
+Pages : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

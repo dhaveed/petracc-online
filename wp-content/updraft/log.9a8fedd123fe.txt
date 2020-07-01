@@ -1,0 +1,306 @@
+0000.001 (0) Opened log file at time: Mon, 11 May 2020 13:38:08 +0000 on https://online.petracc.org
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 16M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.360 (0) Free space on disk containing Updraft's temporary directory: 901009.6 MB
+0000.377 (0) Deleting old temporary file: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp
+0000.455 (0) Tasks: Backup files: 0 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.460 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0000.462 (0) Set semaphore last lock (d) time to 2020-05-11 13:38:09
+0000.463 (0) Semaphore lock (d) complete
+0000.466 (0) Backup run: resumption=0, nonce=9a8fedd123fe, file_nonce=9a8fedd123fe begun at=1589204288 (1s ago), job type=backup
+0000.468 (0) Scheduling a resumption (1) after 300 seconds (1589204589) in case this run gets aborted
+0000.629 (0) This backup run is not intended for files - skipping
+0000.630 (0) Beginning creation of database dump (WordPress DB)
+0000.635 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0002.599 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wpr0_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nC (truncated - 1252 bytes total)
+0002.602 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0002.616 (0) Table wpr0_options: Total expected rows (approximate): 1446
+0002.697 (0) Table wpr0_options: Total rows added: 1442 in 0.08 seconds
+0002.698 (0) Table wpr0_options: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_options.table.gz - 142.9 KB)
+0002.703 (0) Table wpr0_users: Total expected rows (approximate): 1
+0002.706 (0) Table wpr0_users: Total rows added: 1 in 0.00 seconds
+0002.706 (0) Table wpr0_users: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_users.table.gz - 0.6 KB)
+0002.710 (0) Table wpr0_usermeta: Total expected rows (approximate): 44
+0002.712 (0) Table wpr0_usermeta: Total rows added: 44 in 0.00 seconds
+0002.713 (0) Table wpr0_usermeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_usermeta.table.gz - 1.9 KB)
+0002.716 (0) Table wpr0_commentmeta: Total expected rows (approximate): 0
+0002.717 (0) Table wpr0_commentmeta: Total rows added: 0 in 0.00 seconds
+0002.718 (0) Table wpr0_commentmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_commentmeta.table.gz - 0.4 KB)
+0002.721 (0) Table wpr0_comments: Total expected rows (approximate): 10
+0002.724 (0) Table wpr0_comments: Total rows added: 10 in 0.00 seconds
+0002.724 (0) Table wpr0_comments: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_comments.table.gz - 1.1 KB)
+0002.728 (0) Table wpr0_links: Total expected rows (approximate): 0
+0002.729 (0) Table wpr0_links: Total rows added: 0 in 0.00 seconds
+0002.730 (0) Table wpr0_links: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_links.table.gz - 0.4 KB)
+0002.735 (0) Table wpr0_postmeta: Total expected rows (approximate): 38362
+0003.610 (0) Table wpr0_postmeta: binary mysqldump finished (writes: 35) in 0.87 seconds
+0003.612 (0) Table wpr0_postmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_postmeta.table.gz - 346.8 KB)
+0003.616 (0) Table wpr0_posts: Total expected rows (approximate): 633
+0003.659 (0) Table wpr0_posts: Total rows added: 633 in 0.04 seconds
+0003.661 (0) Table wpr0_posts: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_posts.table.gz - 121.9 KB)
+0003.664 (0) Table wpr0_term_relationships: Total expected rows (approximate): 204
+0003.666 (0) Table wpr0_term_relationships: Total rows added: 204 in 0.00 seconds
+0003.667 (0) Table wpr0_term_relationships: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_term_relationships.table.gz - 1 KB)
+0003.670 (0) Table wpr0_term_taxonomy: Total expected rows (approximate): 71
+0003.672 (0) Table wpr0_term_taxonomy: Total rows added: 71 in 0.00 seconds
+0003.673 (0) Table wpr0_term_taxonomy: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_term_taxonomy.table.gz - 0.9 KB)
+0003.676 (0) Table wpr0_termmeta: Total expected rows (approximate): 43
+0003.678 (0) Table wpr0_termmeta: Total rows added: 43 in 0.00 seconds
+0003.679 (0) Table wpr0_termmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_termmeta.table.gz - 0.9 KB)
+0003.683 (0) Table wpr0_terms: Total expected rows (approximate): 71
+0003.685 (0) Table wpr0_terms: Total rows added: 71 in 0.00 seconds
+0003.686 (0) Table wpr0_terms: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_terms.table.gz - 1.3 KB)
+0003.689 (0) Table wpr0_actionscheduler_actions: Total expected rows (approximate): 1
+0003.691 (0) Table wpr0_actionscheduler_actions: Total rows added: 1 in 0.00 seconds
+0003.691 (0) Table wpr0_actionscheduler_actions: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_actions.table.gz - 0.7 KB)
+0003.694 (0) Table wpr0_actionscheduler_claims: Total expected rows (approximate): 0
+0003.696 (0) Table wpr0_actionscheduler_claims: Total rows added: 0 in 0.00 seconds
+0003.696 (0) Table wpr0_actionscheduler_claims: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_claims.table.gz - 0.4 KB)
+0003.700 (0) Table wpr0_actionscheduler_groups: Total expected rows (approximate): 1
+0003.702 (0) Table wpr0_actionscheduler_groups: Total rows added: 1 in 0.00 seconds
+0003.702 (0) Table wpr0_actionscheduler_groups: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_groups.table.gz - 0.4 KB)
+0003.705 (0) Table wpr0_actionscheduler_logs: Total expected rows (approximate): 3
+0003.707 (0) Table wpr0_actionscheduler_logs: Total rows added: 3 in 0.00 seconds
+0003.708 (0) Table wpr0_actionscheduler_logs: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_logs.table.gz - 0.5 KB)
+0003.710 (0) Table wpr0_ahm_assets: Total expected rows (approximate): 0
+0003.712 (0) Table wpr0_ahm_assets: Total rows added: 0 in 0.00 seconds
+0003.712 (0) Table wpr0_ahm_assets: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_assets.table.gz - 0.3 KB)
+0003.716 (0) Table wpr0_ahm_download_stats: Total expected rows (approximate): 1
+0003.718 (0) Table wpr0_ahm_download_stats: Total rows added: 1 in 0.00 seconds
+0003.719 (0) Table wpr0_ahm_download_stats: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_download_stats.table.gz - 0.4 KB)
+0003.722 (0) Table wpr0_ahm_emails: Total expected rows (approximate): 0
+0003.723 (0) Table wpr0_ahm_emails: Total rows added: 0 in 0.00 seconds
+0003.724 (0) Table wpr0_ahm_emails: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_emails.table.gz - 0.3 KB)
+0003.726 (0) Table wpr0_loginizer_logs: Total expected rows (approximate): 0
+0003.728 (0) Table wpr0_loginizer_logs: Total rows added: 0 in 0.00 seconds
+0003.728 (0) Table wpr0_loginizer_logs: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_loginizer_logs.table.gz - 0.3 KB)
+0003.731 (0) Table wpr0_mec_dates: Total expected rows (approximate): 13500
+0004.608 (0) Table wpr0_mec_dates: binary mysqldump finished (writes: 35) in 0.88 seconds
+0004.611 (0) Table wpr0_mec_dates: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_mec_dates.table.gz - 201.9 KB)
+0004.615 (0) Table wpr0_mec_events: Total expected rows (approximate): 41
+0004.619 (0) Table wpr0_mec_events: Total rows added: 41 in 0.00 seconds
+0004.620 (0) Table wpr0_mec_events: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_mec_events.table.gz - 1.1 KB)
+0004.624 (0) Table wpr0_paystack_forms_payments: Total expected rows (approximate): 14
+0004.628 (0) Table wpr0_paystack_forms_payments: Total rows added: 14 in 0.00 seconds
+0004.629 (0) Table wpr0_paystack_forms_payments: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_paystack_forms_payments.table.gz - 1.6 KB)
+0004.634 (0) Table wpr0_revslider_css: Total expected rows (approximate): 109
+0004.642 (0) Table wpr0_revslider_css: Total rows added: 109 in 0.01 seconds
+0004.644 (0) Table wpr0_revslider_css: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_css.table.gz - 4.9 KB)
+0004.649 (0) Table wpr0_revslider_css_bkp: Total expected rows (approximate): 47
+0004.652 (0) Table wpr0_revslider_css_bkp: Total rows added: 47 in 0.00 seconds
+0004.653 (0) Table wpr0_revslider_css_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_css_bkp.table.gz - 1.8 KB)
+0004.656 (0) Table wpr0_revslider_layer_animations: Total expected rows (approximate): 0
+0004.659 (0) Table wpr0_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0004.660 (0) Table wpr0_revslider_layer_animations: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_layer_animations.table.gz - 0.3 KB)
+0004.664 (0) Table wpr0_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0004.667 (0) Table wpr0_revslider_layer_animations_bkp: Total rows added: 0 in 0.00 seconds
+0004.668 (0) Table wpr0_revslider_layer_animations_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0004.671 (0) Table wpr0_revslider_navigations: Total expected rows (approximate): 0
+0004.673 (0) Table wpr0_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0004.673 (0) Table wpr0_revslider_navigations: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_navigations.table.gz - 0.3 KB)
+0004.680 (0) Table wpr0_revslider_navigations_bkp: Total expected rows (approximate): 0
+0004.684 (0) Table wpr0_revslider_navigations_bkp: Total rows added: 0 in 0.00 seconds
+0004.686 (0) Table wpr0_revslider_navigations_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_navigations_bkp.table.gz - 0.3 KB)
+0004.691 (0) Table wpr0_revslider_sliders: Total expected rows (approximate): 0
+0004.694 (0) Table wpr0_revslider_sliders: Total rows added: 0 in 0.00 seconds
+0004.695 (0) Table wpr0_revslider_sliders: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_sliders.table.gz - 0.3 KB)
+0004.700 (0) Table wpr0_revslider_sliders_bkp: Total expected rows (approximate): 0
+0004.702 (0) Table wpr0_revslider_sliders_bkp: Total rows added: 0 in 0.00 seconds
+0004.703 (0) Table wpr0_revslider_sliders_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_sliders_bkp.table.gz - 0.3 KB)
+0004.708 (0) Table wpr0_revslider_slides: Total expected rows (approximate): 0
+0004.711 (0) Table wpr0_revslider_slides: Total rows added: 0 in 0.00 seconds
+0004.712 (0) Table wpr0_revslider_slides: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_slides.table.gz - 0.3 KB)
+0004.717 (0) Table wpr0_revslider_slides_bkp: Total expected rows (approximate): 0
+0004.719 (0) Table wpr0_revslider_slides_bkp: Total rows added: 0 in 0.00 seconds
+0004.720 (0) Table wpr0_revslider_slides_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_slides_bkp.table.gz - 0.3 KB)
+0004.725 (0) Table wpr0_revslider_static_slides: Total expected rows (approximate): 0
+0004.728 (0) Table wpr0_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0004.729 (0) Table wpr0_revslider_static_slides: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_static_slides.table.gz - 0.3 KB)
+0004.733 (0) Table wpr0_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0004.735 (0) Table wpr0_revslider_static_slides_bkp: Total rows added: 0 in 0.00 seconds
+0004.736 (0) Table wpr0_revslider_static_slides_bkp: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0004.740 (0) Table wpr0_sbi_instagram_feeds_posts: Total expected rows (approximate): 0
+0004.742 (0) Table wpr0_sbi_instagram_feeds_posts: Total rows added: 0 in 0.00 seconds
+0004.743 (0) Table wpr0_sbi_instagram_feeds_posts: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_sbi_instagram_feeds_posts.table.gz - 0.4 KB)
+0004.746 (0) Table wpr0_sbi_instagram_posts: Total expected rows (approximate): 0
+0004.748 (0) Table wpr0_sbi_instagram_posts: Total rows added: 0 in 0.00 seconds
+0004.749 (0) Table wpr0_sbi_instagram_posts: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_sbi_instagram_posts.table.gz - 0.4 KB)
+0004.753 (0) Table wpr0_tm_taskmeta: Total expected rows (approximate): 0
+0004.756 (0) Table wpr0_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0004.757 (0) Table wpr0_tm_taskmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_tm_taskmeta.table.gz - 0.4 KB)
+0004.760 (0) Table wpr0_tm_tasks: Total expected rows (approximate): 0
+0004.763 (0) Table wpr0_tm_tasks: Total rows added: 0 in 0.00 seconds
+0004.764 (0) Table wpr0_tm_tasks: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_tm_tasks.table.gz - 0.4 KB)
+0004.767 (0) Table wpr0_wc_admin_note_actions: Total expected rows (approximate): 4
+0004.770 (0) Table wpr0_wc_admin_note_actions: Total rows added: 4 in 0.00 seconds
+0004.771 (0) Table wpr0_wc_admin_note_actions: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_admin_note_actions.table.gz - 0.6 KB)
+0004.774 (0) Table wpr0_wc_admin_notes: Total expected rows (approximate): 4
+0004.776 (0) Table wpr0_wc_admin_notes: Total rows added: 4 in 0.00 seconds
+0004.777 (0) Table wpr0_wc_admin_notes: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_admin_notes.table.gz - 1 KB)
+0004.781 (0) Table wpr0_wc_category_lookup: Total expected rows (approximate): 1
+0004.784 (0) Table wpr0_wc_category_lookup: Total rows added: 1 in 0.00 seconds
+0004.785 (0) Table wpr0_wc_category_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_category_lookup.table.gz - 0.3 KB)
+0004.789 (0) Table wpr0_wc_customer_lookup: Total expected rows (approximate): 0
+0004.791 (0) Table wpr0_wc_customer_lookup: Total rows added: 0 in 0.00 seconds
+0004.792 (0) Table wpr0_wc_customer_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_customer_lookup.table.gz - 0.5 KB)
+0004.795 (0) Table wpr0_wc_download_log: Total expected rows (approximate): 0
+0004.797 (0) Table wpr0_wc_download_log: Total rows added: 0 in 0.00 seconds
+0004.798 (0) Table wpr0_wc_download_log: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_download_log.table.gz - 0.4 KB)
+0004.801 (0) Table wpr0_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0004.803 (0) Table wpr0_wc_order_coupon_lookup: Total rows added: 0 in 0.00 seconds
+0004.804 (0) Table wpr0_wc_order_coupon_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0004.807 (0) Table wpr0_wc_order_product_lookup: Total expected rows (approximate): 0
+0004.809 (0) Table wpr0_wc_order_product_lookup: Total rows added: 0 in 0.00 seconds
+0004.810 (0) Table wpr0_wc_order_product_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_product_lookup.table.gz - 0.4 KB)
+0004.813 (0) Table wpr0_wc_order_stats: Total expected rows (approximate): 0
+0004.815 (0) Table wpr0_wc_order_stats: Total rows added: 0 in 0.00 seconds
+0004.816 (0) Table wpr0_wc_order_stats: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_stats.table.gz - 0.5 KB)
+0004.819 (0) Table wpr0_wc_order_tax_lookup: Total expected rows (approximate): 0
+0004.821 (0) Table wpr0_wc_order_tax_lookup: Total rows added: 0 in 0.00 seconds
+0004.822 (0) Table wpr0_wc_order_tax_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_tax_lookup.table.gz - 0.4 KB)
+0004.825 (0) Table wpr0_wc_product_meta_lookup: Total expected rows (approximate): 0
+0004.827 (0) Table wpr0_wc_product_meta_lookup: Total rows added: 0 in 0.00 seconds
+0004.828 (0) Table wpr0_wc_product_meta_lookup: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_product_meta_lookup.table.gz - 0.5 KB)
+0004.832 (0) Table wpr0_wc_tax_rate_classes: Total expected rows (approximate): 2
+0004.834 (0) Table wpr0_wc_tax_rate_classes: Total rows added: 2 in 0.00 seconds
+0004.835 (0) Table wpr0_wc_tax_rate_classes: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_tax_rate_classes.table.gz - 0.4 KB)
+0004.838 (0) Table wpr0_wc_webhooks: Total expected rows (approximate): 0
+0004.840 (0) Table wpr0_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0004.840 (0) Table wpr0_wc_webhooks: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_webhooks.table.gz - 0.5 KB)
+0004.843 (0) Table wpr0_woocommerce_api_keys: Total expected rows (approximate): 0
+0004.845 (0) Table wpr0_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0004.846 (0) Table wpr0_woocommerce_api_keys: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_api_keys.table.gz - 0.4 KB)
+0004.849 (0) Table wpr0_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0004.851 (0) Table wpr0_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0004.851 (0) Table wpr0_woocommerce_attribute_taxonomies: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0004.855 (0) Table wpr0_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0004.858 (0) Table wpr0_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0004.859 (0) Table wpr0_woocommerce_downloadable_product_permissions: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0004.862 (0) Table wpr0_woocommerce_log: Total expected rows (approximate): 0
+0004.864 (0) Table wpr0_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0004.864 (0) Table wpr0_woocommerce_log: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_log.table.gz - 0.4 KB)
+0004.867 (0) Table wpr0_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0004.869 (0) Table wpr0_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0004.870 (0) Table wpr0_woocommerce_order_itemmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0004.874 (0) Table wpr0_woocommerce_order_items: Total expected rows (approximate): 0
+0004.876 (0) Table wpr0_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0004.877 (0) Table wpr0_woocommerce_order_items: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_order_items.table.gz - 0.4 KB)
+0004.881 (0) Table wpr0_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0004.883 (0) Table wpr0_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0004.884 (0) Table wpr0_woocommerce_payment_tokenmeta: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0004.887 (0) Table wpr0_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0004.889 (0) Table wpr0_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0004.890 (0) Table wpr0_woocommerce_payment_tokens: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0004.893 (0) Table wpr0_woocommerce_sessions: Total expected rows (approximate): 1
+0004.895 (0) Table wpr0_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0004.896 (0) Table wpr0_woocommerce_sessions: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_sessions.table.gz - 0.8 KB)
+0004.899 (0) Table wpr0_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0004.901 (0) Table wpr0_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0004.902 (0) Table wpr0_woocommerce_shipping_zone_locations: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0004.905 (0) Table wpr0_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0004.907 (0) Table wpr0_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0004.908 (0) Table wpr0_woocommerce_shipping_zone_methods: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0004.911 (0) Table wpr0_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0004.913 (0) Table wpr0_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0004.914 (0) Table wpr0_woocommerce_shipping_zones: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0004.918 (0) Table wpr0_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0004.919 (0) Table wpr0_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0004.920 (0) Table wpr0_woocommerce_tax_rate_locations: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0004.924 (0) Table wpr0_woocommerce_tax_rates: Total expected rows (approximate): 0
+0004.926 (0) Table wpr0_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0004.927 (0) Table wpr0_woocommerce_tax_rates: finishing file (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_tax_rates.table.gz - 0.4 KB)
+0004.931 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_options.table.gz (1/65): adding to final database dump
+0004.971 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_users.table.gz (2/65): adding to final database dump
+0004.972 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_usermeta.table.gz (3/65): adding to final database dump
+0004.973 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_commentmeta.table.gz (4/65): adding to final database dump
+0004.974 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_comments.table.gz (5/65): adding to final database dump
+0004.974 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_links.table.gz (6/65): adding to final database dump
+0004.975 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_postmeta.table.gz (7/65): adding to final database dump
+0005.068 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_posts.table.gz (8/65): adding to final database dump
+0005.101 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_term_relationships.table.gz (9/65): adding to final database dump
+0005.103 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_term_taxonomy.table.gz (10/65): adding to final database dump
+0005.103 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_termmeta.table.gz (11/65): adding to final database dump
+0005.104 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_terms.table.gz (12/65): adding to final database dump
+0005.105 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_actions.table.gz (13/65): adding to final database dump
+0005.105 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_claims.table.gz (14/65): adding to final database dump
+0005.106 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_groups.table.gz (15/65): adding to final database dump
+0005.107 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_actionscheduler_logs.table.gz (16/65): adding to final database dump
+0005.107 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_assets.table.gz (17/65): adding to final database dump
+0005.108 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_download_stats.table.gz (18/65): adding to final database dump
+0005.109 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_ahm_emails.table.gz (19/65): adding to final database dump
+0005.109 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_loginizer_logs.table.gz (20/65): adding to final database dump
+0005.110 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_mec_dates.table.gz (21/65): adding to final database dump
+0005.174 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_mec_events.table.gz (22/65): adding to final database dump
+0005.176 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_paystack_forms_payments.table.gz (23/65): adding to final database dump
+0005.177 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_css.table.gz (24/65): adding to final database dump
+0005.180 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_css_bkp.table.gz (25/65): adding to final database dump
+0005.181 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_layer_animations.table.gz (26/65): adding to final database dump
+0005.181 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_layer_animations_bkp.table.gz (27/65): adding to final database dump
+0005.182 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_navigations.table.gz (28/65): adding to final database dump
+0005.182 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_navigations_bkp.table.gz (29/65): adding to final database dump
+0005.183 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_sliders.table.gz (30/65): adding to final database dump
+0005.184 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_sliders_bkp.table.gz (31/65): adding to final database dump
+0005.184 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_slides.table.gz (32/65): adding to final database dump
+0005.185 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_slides_bkp.table.gz (33/65): adding to final database dump
+0005.185 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_static_slides.table.gz (34/65): adding to final database dump
+0005.186 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_revslider_static_slides_bkp.table.gz (35/65): adding to final database dump
+0005.187 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_sbi_instagram_feeds_posts.table.gz (36/65): adding to final database dump
+0005.187 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_sbi_instagram_posts.table.gz (37/65): adding to final database dump
+0005.188 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_tm_taskmeta.table.gz (38/65): adding to final database dump
+0005.189 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_tm_tasks.table.gz (39/65): adding to final database dump
+0005.189 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_admin_note_actions.table.gz (40/65): adding to final database dump
+0005.190 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_admin_notes.table.gz (41/65): adding to final database dump
+0005.190 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_category_lookup.table.gz (42/65): adding to final database dump
+0005.191 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_customer_lookup.table.gz (43/65): adding to final database dump
+0005.192 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_download_log.table.gz (44/65): adding to final database dump
+0005.192 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_coupon_lookup.table.gz (45/65): adding to final database dump
+0005.193 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_product_lookup.table.gz (46/65): adding to final database dump
+0005.194 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_stats.table.gz (47/65): adding to final database dump
+0005.194 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_order_tax_lookup.table.gz (48/65): adding to final database dump
+0005.195 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_product_meta_lookup.table.gz (49/65): adding to final database dump
+0005.196 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_tax_rate_classes.table.gz (50/65): adding to final database dump
+0005.197 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_wc_webhooks.table.gz (51/65): adding to final database dump
+0005.197 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_api_keys.table.gz (52/65): adding to final database dump
+0005.198 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_attribute_taxonomies.table.gz (53/65): adding to final database dump
+0005.199 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_downloadable_product_permissions.table.gz (54/65): adding to final database dump
+0005.199 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_log.table.gz (55/65): adding to final database dump
+0005.200 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_order_itemmeta.table.gz (56/65): adding to final database dump
+0005.200 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_order_items.table.gz (57/65): adding to final database dump
+0005.201 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_payment_tokenmeta.table.gz (58/65): adding to final database dump
+0005.202 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_payment_tokens.table.gz (59/65): adding to final database dump
+0005.202 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_sessions.table.gz (60/65): adding to final database dump
+0005.203 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zone_locations.table.gz (61/65): adding to final database dump
+0005.203 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zone_methods.table.gz (62/65): adding to final database dump
+0005.204 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_shipping_zones.table.gz (63/65): adding to final database dump
+0005.204 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_tax_rate_locations.table.gz (64/65): adding to final database dump
+0005.205 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db-table-wpr0_woocommerce_tax_rates.table.gz (65/65): adding to final database dump
+0005.208 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz: finished writing out complete database file (824 KB)
+0005.252 (0) Total database tables backed up: 65 (backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz, size: 855618, sha1: d942d13834187446abbc77f96b404b4de5c15e51, sha256: f14b5905c59e54ee80a4a0878650bcd49cb2cd87997a4f3ff1c5cd9854ba361e)
+0005.257 (0) backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz: db: This file has not yet been successfully uploaded: will queue
+0005.257 (0) Saving backup history. Total backup size: 835.6 KB
+0005.260 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0005.262 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0005.263 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-c2f95d35d07b19c2f93eed7f88cfd684)
+0009.621 (0) Google Drive: quota usage: used=2353.6 MB, total=15360 MB, available=13006.4 MB
+0009.623 (0) Google Drive: backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz: Attempting to upload to Google Drive (into folder id: 1dVi5kMbvjm9I7ymJ0iuDSNtAD8TcHbdY)
+0011.534 (0) Googledrive chunked upload: 100 % uploaded
+0011.536 (0) Google Drive: OK: Archive backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz uploaded in 1.91 seconds
+0011.536 (0) Recording as successfully uploaded: backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz
+0011.538 (0) Deleting local file: backup_2020-05-11-1338_Petra_Christian_Centre_9a8fedd123fe-db.gz: OK
+0011.539 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.540 (0) Number of backup sets in history: 2; groups (db): 1
+0011.541 (0) Examining (for databases) backup set with group_id=0, nonce=9a8fedd123fe, datestamp=1589204288 (May 11 2020 13:38:08)
+0011.541 (0) This backup set is the backup set just made, so will not be deleted.
+0011.541 (0) Examining (for databases) backup set with group_id=0, nonce=7805289ed532, datestamp=1588973990 (May 08 2020 21:39:50)
+0011.542 (0) This backup set (1588973990) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0011.542 (0) Number of backup sets in history: 2; groups (files): 1
+0011.542 (0) Examining (for files) backup set with nonce=9a8fedd123fe, datestamp=1589204288 (May 11 2020 13:38:08)
+0011.542 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0011.543 (0) Examining (for files) backup set with nonce=7805289ed532, datestamp=1588973990 (May 08 2020 21:39:50)
+0011.543 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0011.543 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0011.545 (0) Resume backup (9a8fedd123fe, 0): finish run
+0011.546 (0) Decremented the semaphore (d) by 1
+0011.547 (0) Semaphore (d) unlocked
+0011.547 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0011.550 (0) No email will/can be sent - the user has not configured an email address.
+0011.551 (0) The backup apparently succeeded and is now complete

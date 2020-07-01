@@ -1,0 +1,26 @@
+[16-May-2020 20:47:44 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home2/mactavi1/public_html/online/wp-includes/functions.php:7600) in /home2/mactavi1/public_html/online/wp-includes/functions.php on line 7657
+[16-May-2020 20:47:44 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home2/mactavi1/public_html/online/wp-includes/functions.php:7600) in /home2/mactavi1/public_html/online/wp-includes/functions.php on line 7657
+[16-May-2020 20:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/mactavi1/public_html/online/wp-includes/l10n.php:69
+Stack trace:
+#0 /home2/mactavi1/public_html/online/wp-includes/l10n.php(136): get_locale()
+#1 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1207): determine_locale()
+#2 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1168): _get_path_to_translation_from_lang_dir('wp-optimize')
+#3 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1137): _get_path_to_translation('wp-optimize')
+#4 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1238): _load_textdomain_just_in_time('wp-optimize')
+#5 /home2/mactavi1/public_html/online/wp-includes/l10n.php(175): get_translations_for_domain('wp-optimize')
+#6 /home2/mactavi1/public_html/online/wp-includes/l10n.php(254): translate('Output is too s...', 'wp-optimize')
+#7 /home2/mactavi1/public_html/online/wp-content/plugins/wp-optimize/cache/file-based-page-cache-functions.php(29): __('Output is too s...', 'wp-optimize')
+#8 [internal func in /home2/mactavi1/public_html/online/wp-includes/l10n.php on line 69
+[16-May-2020 20:48:02 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home2/mactavi1/public_html/online/wp-includes/functions.php:7600) in /home2/mactavi1/public_html/online/wp-includes/functions.php on line 7657
+[16-May-2020 20:48:02 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home2/mactavi1/public_html/online/wp-includes/functions.php:7600) in /home2/mactavi1/public_html/online/wp-includes/functions.php on line 7657
+[16-May-2020 20:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/mactavi1/public_html/online/wp-includes/l10n.php:69
+Stack trace:
+#0 /home2/mactavi1/public_html/online/wp-includes/l10n.php(136): get_locale()
+#1 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1207): determine_locale()
+#2 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1168): _get_path_to_translation_from_lang_dir('wp-optimize')
+#3 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1137): _get_path_to_translation('wp-optimize')
+#4 /home2/mactavi1/public_html/online/wp-includes/l10n.php(1238): _load_textdomain_just_in_time('wp-optimize')
+#5 /home2/mactavi1/public_html/online/wp-includes/l10n.php(175): get_translations_for_domain('wp-optimize')
+#6 /home2/mactavi1/public_html/online/wp-includes/l10n.php(254): translate('Output is too s...', 'wp-optimize')
+#7 /home2/mactavi1/public_html/online/wp-content/plugins/wp-optimize/cache/file-based-page-cache-functions.php(29): __('Output is too s...', 'wp-optimize')
+#8 [internal func in /home2/mactavi1/public_html/online/wp-includes/l10n.php on line 69

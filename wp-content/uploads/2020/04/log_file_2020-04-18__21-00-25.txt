@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Demo 23: <b>Corporate</b> were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://online.petracc.org
+Data file = /home2/mactavi1/public_html/online/wp-content/uploads/2020/04/demo-content-import-file_2020-04-18__21-00-25.xml
+Widget file = /home2/mactavi1/public_html/online/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-18__21-00-25.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+An error occurred while reading a file from your server! Tried reading file from path: <br>/home2/mactavi1/public_html/online/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-18__21-00-25.json.
+
+---pt-ocdi/after_import---
+

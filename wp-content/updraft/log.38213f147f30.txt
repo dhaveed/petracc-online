@@ -1,0 +1,563 @@
+0000.001 (0) Opened log file at time: Fri, 08 May 2020 19:55:29 +0000 on https://online.petracc.org
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 16M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.051 (0) Free space on disk containing Updraft's temporary directory: 903319.8 MB
+0000.053 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.057 (0) Semaphore (fd, wpr0_options) being initialised
+0000.059 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.060 (0) Set semaphore last lock (fd) time to 2020-05-08 19:55:29
+0000.061 (0) Semaphore lock (fd) complete
+0000.063 (0) Backup run: resumption=0, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (0s ago), job type=backup
+0000.064 (0) Scheduling a resumption (1) after 300 seconds (1588968029) in case this run gets aborted
+0000.224 (0) Checking if we have a zip executable available
+0000.225 (0) Testing: /usr/bin/zip
+0000.235 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.278 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.279 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.280 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.280 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.289 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.290 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.292 (0) Working binary zip found: /usr/bin/zip
+0000.293 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.293 (0) Creation of backups of directories: beginning
+0000.324 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0025.370 (0) Total entities for the zip file: 1490 directories, 9999 files (0 skipped as non-modified), 147.9 MB
+0025.373 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0025.659 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 0.30 MB
+0025.667 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 100 files added (on-disk size: 340.3 KB)
+0025.674 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 200 files added (on-disk size: 340.3 KB)
+0025.681 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 300 files added (on-disk size: 340.3 KB)
+0025.689 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 400 files added (on-disk size: 340.3 KB)
+0025.696 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 500 files added (on-disk size: 340.3 KB)
+0025.697 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10 MB, 9999 files batched, 501 (502) added so far); re-opening (prior size: 340.3 KB)
+0035.280 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 3.40 MB
+0035.289 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 600 files added (on-disk size: 3491 KB)
+0035.296 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 700 files added (on-disk size: 3491 KB)
+0035.304 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 800 files added (on-disk size: 3491 KB)
+0035.311 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 900 files added (on-disk size: 3491 KB)
+0035.319 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1000 files added (on-disk size: 3491 KB)
+0035.320 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 9999 files batched, 501 (1003) added so far); re-opening (prior size: 3491 KB)
+0047.478 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 5.70 MB
+0047.487 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1100 files added (on-disk size: 5886 KB)
+0047.494 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1200 files added (on-disk size: 5886 KB)
+0047.502 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1300 files added (on-disk size: 5886 KB)
+0047.510 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1400 files added (on-disk size: 5886 KB)
+0047.517 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1500 files added (on-disk size: 5886 KB)
+0047.518 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.3 MB, 9999 files batched, 501 (1504) added so far); re-opening (prior size: 5886 KB)
+0060.350 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 7.80 MB
+0060.359 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1600 files added (on-disk size: 8017.1 KB)
+0060.366 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1700 files added (on-disk size: 8017.1 KB)
+0060.374 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1800 files added (on-disk size: 8017.1 KB)
+0060.381 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 1900 files added (on-disk size: 8017.1 KB)
+0060.388 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2000 files added (on-disk size: 8017.1 KB)
+0060.389 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 9999 files batched, 501 (2005) added so far); re-opening (prior size: 8017.1 KB)
+0067.006 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2100 files added (on-disk size: 9043.3 KB)
+0067.014 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2200 files added (on-disk size: 9043.3 KB)
+0067.022 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2300 files added (on-disk size: 9043.3 KB)
+0067.029 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2400 files added (on-disk size: 9043.3 KB)
+0067.037 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2500 files added (on-disk size: 9043.3 KB)
+0067.038 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.2 MB, 9999 files batched, 501 (2506) added so far); re-opening (prior size: 9043.3 KB)
+0074.262 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 11.30 MB
+0074.271 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2600 files added (on-disk size: 11593 KB)
+0074.278 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2700 files added (on-disk size: 11593 KB)
+0074.285 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2800 files added (on-disk size: 11593 KB)
+0074.293 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 2900 files added (on-disk size: 11593 KB)
+0074.300 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3000 files added (on-disk size: 11593 KB)
+0074.302 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.7 MB, 9999 files batched, 501 (3007) added so far); re-opening (prior size: 11593 KB)
+0089.815 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 14.20 MB
+0089.828 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3100 files added (on-disk size: 14526.3 KB)
+0089.839 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3200 files added (on-disk size: 14526.3 KB)
+0089.851 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3300 files added (on-disk size: 14526.3 KB)
+0089.859 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3400 files added (on-disk size: 14526.3 KB)
+0089.866 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3500 files added (on-disk size: 14526.3 KB)
+0089.867 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 9999 files batched, 501 (3508) added so far); re-opening (prior size: 14526.3 KB)
+0095.986 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3600 files added (on-disk size: 15395 KB)
+0095.994 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3700 files added (on-disk size: 15395 KB)
+0096.001 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3800 files added (on-disk size: 15395 KB)
+0096.009 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 3900 files added (on-disk size: 15395 KB)
+0096.017 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4000 files added (on-disk size: 15395 KB)
+0096.018 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.4 MB, 9999 files batched, 501 (4009) added so far); re-opening (prior size: 15395 KB)
+0120.929 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 18.50 MB
+0120.937 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4100 files added (on-disk size: 18985.5 KB)
+0120.945 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4200 files added (on-disk size: 18985.5 KB)
+0120.952 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4300 files added (on-disk size: 18985.5 KB)
+0120.960 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4400 files added (on-disk size: 18985.5 KB)
+0120.967 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4500 files added (on-disk size: 18985.5 KB)
+0120.969 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.2 MB, 9999 files batched, 501 (4510) added so far); re-opening (prior size: 18985.5 KB)
+0127.797 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4600 files added (on-disk size: 20401.2 KB)
+0127.805 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4700 files added (on-disk size: 20401.2 KB)
+0127.813 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4800 files added (on-disk size: 20401.2 KB)
+0127.820 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 4900 files added (on-disk size: 20401.2 KB)
+0127.828 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5000 files added (on-disk size: 20401.2 KB)
+0127.829 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.5 MB, 9999 files batched, 501 (5011) added so far); re-opening (prior size: 20401.2 KB)
+0138.363 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5100 files added (on-disk size: 22021.5 KB)
+0138.371 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5200 files added (on-disk size: 22021.5 KB)
+0138.378 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5300 files added (on-disk size: 22021.5 KB)
+0138.386 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5400 files added (on-disk size: 22021.5 KB)
+0138.393 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5500 files added (on-disk size: 22021.5 KB)
+0138.395 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 9999 files batched, 501 (5512) added so far); re-opening (prior size: 22021.5 KB)
+0153.041 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5600 files added (on-disk size: 24149.4 KB)
+0153.048 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5700 files added (on-disk size: 24149.4 KB)
+0153.056 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5800 files added (on-disk size: 24149.4 KB)
+0153.063 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 5900 files added (on-disk size: 24149.4 KB)
+0153.071 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6000 files added (on-disk size: 24149.4 KB)
+0153.072 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2 MB, 9999 files batched, 501 (6013) added so far); re-opening (prior size: 24149.4 KB)
+0159.335 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6100 files added (on-disk size: 24852.1 KB)
+0159.345 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6200 files added (on-disk size: 24852.1 KB)
+0159.353 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6300 files added (on-disk size: 24852.1 KB)
+0159.360 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6400 files added (on-disk size: 24852.1 KB)
+0159.368 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6500 files added (on-disk size: 24852.1 KB)
+0159.369 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.8 MB, 9999 files batched, 501 (6514) added so far); re-opening (prior size: 24852.1 KB)
+0171.368 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6600 files added (on-disk size: 27480.1 KB)
+0171.376 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6700 files added (on-disk size: 27480.1 KB)
+0171.384 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6800 files added (on-disk size: 27480.1 KB)
+0171.391 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 6900 files added (on-disk size: 27480.1 KB)
+0171.399 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7000 files added (on-disk size: 27480.1 KB)
+0171.401 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.4 MB, 9999 files batched, 501 (7015) added so far); re-opening (prior size: 27480.1 KB)
+0197.550 (0) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: size is now: 32.60 MB
+0197.558 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7100 files added (on-disk size: 33378.4 KB)
+0197.566 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7200 files added (on-disk size: 33378.4 KB)
+0197.573 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7300 files added (on-disk size: 33378.4 KB)
+0197.581 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7400 files added (on-disk size: 33378.4 KB)
+0197.588 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7500 files added (on-disk size: 33378.4 KB)
+0197.590 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.6 MB, 9999 files batched, 501 (7516) added so far); re-opening (prior size: 33378.4 KB)
+0214.497 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7600 files added (on-disk size: 39029.8 KB)
+0214.505 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7700 files added (on-disk size: 39029.8 KB)
+0214.512 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7800 files added (on-disk size: 39029.8 KB)
+0214.521 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 7900 files added (on-disk size: 39029.8 KB)
+0214.529 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8000 files added (on-disk size: 39029.8 KB)
+0214.531 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.3 MB, 9999 files batched, 501 (8017) added so far); re-opening (prior size: 39029.8 KB)
+0239.242 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8100 files added (on-disk size: 46374 KB)
+0239.249 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8200 files added (on-disk size: 46374 KB)
+0239.257 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8300 files added (on-disk size: 46374 KB)
+0239.264 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8400 files added (on-disk size: 46374 KB)
+0239.271 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8500 files added (on-disk size: 46374 KB)
+0239.273 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.5 MB, 9999 files batched, 501 (8518) added so far); re-opening (prior size: 46374 KB)
+0245.464 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8600 files added (on-disk size: 47031.7 KB)
+0245.473 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8700 files added (on-disk size: 47031.7 KB)
+0245.480 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8800 files added (on-disk size: 47031.7 KB)
+0245.488 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 8900 files added (on-disk size: 47031.7 KB)
+0245.495 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9000 files added (on-disk size: 47031.7 KB)
+0245.497 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.8 MB, 9999 files batched, 501 (9019) added so far); re-opening (prior size: 47031.7 KB)
+0273.016 (0) The time we have been running (273) is approaching the resumption interval (300) - increasing resumption interval to 304
+0273.813 (0) The scheduled resumption is within 45 seconds - will reschedule
+0273.816 (0) Rescheduling resumption 1: moving to 349 seconds from now (1588968351)
+0273.818 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 304 + 45 = 349
+0273.829 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9100 files added (on-disk size: 52612.8 KB)
+0273.841 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9200 files added (on-disk size: 52612.8 KB)
+0273.855 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9300 files added (on-disk size: 52612.8 KB)
+0273.867 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9400 files added (on-disk size: 52612.8 KB)
+0273.880 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9500 files added (on-disk size: 52612.8 KB)
+0273.885 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.6 MB, 9999 files batched, 501 (9520) added so far); re-opening (prior size: 52612.8 KB)
+0285.149 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9600 files added (on-disk size: 53561.7 KB)
+0285.160 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9700 files added (on-disk size: 53561.7 KB)
+0285.170 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9800 files added (on-disk size: 53561.7 KB)
+0285.178 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip.tmp: 9900 files added (on-disk size: 53561.7 KB)
+0292.095 (0) Created plugins zip (0) - 54646.7 KB in 291.7 s (187.3 KB/s) (sha1: ca6a732702c608c3c0a119eb0a58cd13ccd25f36, sha256: 770f88d8d4e998a9e5a69c2fae6d149a26c79317391aec753c24b2abfbfb8582)
+0296.311 (0) Beginning creation of dump of themes (split every: 400 MB)
+0296.887 (0) Total entities for the zip file: 131 directories, 673 files (0 skipped as non-modified), 12.7 MB
+0296.895 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0296.903 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0296.910 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0296.918 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0296.925 (0) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0296.926 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11 MB, 673 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0643.162 (1) Opened log file at time: Fri, 08 May 2020 20:06:12 +0000 on https://online.petracc.org
+0643.163 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.4M | 18M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0643.246 (1) Free space on disk containing Updraft's temporary directory: 903152.4 MB
+0643.248 (1) Backup run: resumption=1, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (643s ago), job type=backup, previous check-in=291.3s
+0643.250 (1) Scheduling a resumption (2) after 349 seconds (1588968721) in case this run gets aborted
+0643.273 (1) Checking if we have a zip executable available
+0643.274 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0643.275 (1) Creation of backups of directories: had begun; will resume
+0643.277 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0643.277 (1) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 352 s)
+0643.279 (1) Beginning creation of dump of themes (split every: 400 MB)
+0643.280 (1) File exists (/home2/mactavi1/public_html/online/wp-content/updraft/backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1588968028, time_now=1588968372, diff=344)
+0643.459 (1) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: Zip file already exists, with 501 files
+0644.148 (1) Total entities for the zip file: 131 directories, 673 files (0 skipped as non-modified), 12.7 MB
+0644.150 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 100 files added (on-disk size: 6605.6 KB)
+0644.151 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 200 files added (on-disk size: 6605.6 KB)
+0644.152 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 300 files added (on-disk size: 6605.6 KB)
+0644.153 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 400 files added (on-disk size: 6605.6 KB)
+0644.154 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 500 files added (on-disk size: 6605.6 KB)
+0644.161 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip.tmp: 600 files added (on-disk size: 6605.6 KB)
+0645.214 (1) Created themes zip (0) - 7106.2 KB in 1.9 s (3765.1 KB/s) (sha1: d8e17b31cf43d2c952ab5bf5bdc2b1c238582282, sha256: 6b6045b2db8c3d6ee0d732c6b53517b2133b4c4cf313908de8156689b48f01b4)
+0645.216 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0645.217 (1) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+0645.218 (1) finding files: 2020: adding to list (1)
+0645.218 (1) finding files: sb-instagram-feed-images: adding to list (2)
+0645.219 (1) finding files: js_composer: adding to list (3)
+0645.219 (1) finding files: 2019: adding to list (4)
+0645.220 (1) finding files: woocommerce_uploads: adding to list (5)
+0645.221 (1) finding files: wc-logs: adding to list (6)
+0645.221 (1) finding files: woocommerce-placeholder.png: adding to list (7)
+0645.222 (1) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+0645.223 (1) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+0645.223 (1) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+0645.224 (1) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+0645.225 (1) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+0645.225 (1) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+0645.226 (1) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+0645.227 (1) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+0645.227 (1) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+0645.228 (1) finding files: download-manager-files: adding to list (17)
+0645.228 (1) finding files: wpdm-cache: adding to list (18)
+0645.229 (1) Beginning creation of dump of uploads (split every: 400 MB)
+0649.035 (1) Total entities for the zip file: 16 directories, 2892 files (0 skipped as non-modified), 412.3 MB
+0649.037 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (4.7 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0662.051 (1) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: size is now: 4.70 MB
+0662.060 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 100 files added (on-disk size: 4800.4 KB)
+0662.067 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.6 MB, 2892 files batched, 171 (172) added so far); re-opening (prior size: 4800.4 KB)
+0722.990 (1) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: size is now: 30.30 MB
+0722.992 (1) A useful amount of data was added after this amount of zip processing: 61 s (normalised: 59.6 s, rate: 429.8 KB/s)
+0722.994 (1) Performance is good - will increase the amount of data we attempt to batch (time=61.002469062805, normalised_time=59.566502879032, max_time=291, data points known=1, old_max_bytes=26214400, new_max_bytes=76839062)
+0722.999 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 200 files added (on-disk size: 31038.7 KB)
+0723.011 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 300 files added (on-disk size: 31038.7 KB)
+0723.024 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 400 files added (on-disk size: 31038.7 KB)
+0723.032 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 500 files added (on-disk size: 31038.7 KB)
+0723.040 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 600 files added (on-disk size: 31038.7 KB)
+0723.046 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (49 MB, 2892 files batched, 501 (673) added so far); re-opening (prior size: 31038.7 KB)
+0829.878 (1) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: size is now: 72.90 MB
+0829.882 (1) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 700 files added (on-disk size: 74690.2 KB)
+0829.889 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 73.3 MB added on this batch (75.3 MB, 2892 files batched, 121 (794) added so far); re-opening (prior size: 74690.2 KB)
+1015.639 (2) Opened log file at time: Fri, 08 May 2020 20:12:24 +0000 on https://online.petracc.org
+1015.640 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 17.2M | 20M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1015.899 (2) Free space on disk containing Updraft's temporary directory: 902954.2 MB
+1015.901 (2) Backup run: resumption=2, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (1015s ago), job type=backup, previous check-in=292.2s
+1015.902 (2) Scheduling a resumption (3) after 349 seconds (1588969093) in case this run gets aborted
+1015.965 (2) Checking if we have a zip executable available
+1015.966 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+1015.967 (2) Creation of backups of directories: had begun; will resume
+1016.026 (2) Beginning creation of dump of plugins (split every: 400 MB)
+1016.027 (2) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 725 s)
+1016.256 (2) Beginning creation of dump of themes (split every: 400 MB)
+1016.257 (2) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 371 s)
+1016.526 (2) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+1016.527 (2) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+1016.527 (2) finding files: 2020: adding to list (1)
+1016.528 (2) finding files: sb-instagram-feed-images: adding to list (2)
+1016.529 (2) finding files: js_composer: adding to list (3)
+1016.529 (2) finding files: 2019: adding to list (4)
+1016.530 (2) finding files: woocommerce_uploads: adding to list (5)
+1016.530 (2) finding files: wc-logs: adding to list (6)
+1016.531 (2) finding files: woocommerce-placeholder.png: adding to list (7)
+1016.531 (2) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+1016.532 (2) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+1016.532 (2) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+1016.533 (2) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+1016.533 (2) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+1016.534 (2) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+1016.534 (2) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+1016.535 (2) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+1016.535 (2) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+1016.536 (2) finding files: download-manager-files: adding to list (17)
+1016.536 (2) finding files: wpdm-cache: adding to list (18)
+1016.537 (2) Beginning creation of dump of uploads (split every: 400 MB)
+1016.568 (2) Terminate: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp exists with activity within the last 30 seconds (time_mod=1588968717, time_now=1588968745, diff=28, size=151857.7KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+1016.570 (2) Rescheduling resumption 3: moving to 469 seconds from now (1588969214)
+1016.572 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 349 + 120 = 469
+1519.628 (3) Opened log file at time: Fri, 08 May 2020 20:20:48 +0000 on https://online.petracc.org
+1519.629 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.4M | 18M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1519.689 (3) Free space on disk containing Updraft's temporary directory: 903018 MB
+1519.692 (3) Backup run: resumption=3, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (1519s ago), job type=backup, previous check-in=0.9s
+1519.693 (3) Scheduling a resumption (4) after 469 seconds (1588969717) in case this run gets aborted
+1519.715 (3) Checking if we have a zip executable available
+1519.716 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+1519.716 (3) Creation of backups of directories: had begun; will resume
+1519.718 (3) Beginning creation of dump of plugins (split every: 400 MB)
+1519.719 (3) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 1228 s)
+1519.720 (3) Beginning creation of dump of themes (split every: 400 MB)
+1519.721 (3) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 874 s)
+1519.722 (3) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+1519.723 (3) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+1519.723 (3) finding files: 2020: adding to list (1)
+1519.724 (3) finding files: sb-instagram-feed-images: adding to list (2)
+1519.724 (3) finding files: js_composer: adding to list (3)
+1519.725 (3) finding files: 2019: adding to list (4)
+1519.725 (3) finding files: woocommerce_uploads: adding to list (5)
+1519.725 (3) finding files: wc-logs: adding to list (6)
+1519.726 (3) finding files: woocommerce-placeholder.png: adding to list (7)
+1519.726 (3) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+1519.727 (3) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+1519.727 (3) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+1519.727 (3) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+1519.728 (3) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+1519.728 (3) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+1519.729 (3) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+1519.729 (3) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+1519.730 (3) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+1519.730 (3) finding files: download-manager-files: adding to list (17)
+1519.731 (3) finding files: wpdm-cache: adding to list (18)
+1519.731 (3) Beginning creation of dump of uploads (split every: 400 MB)
+1519.732 (3) File exists (/home2/mactavi1/public_html/online/wp-content/updraft/backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1588968717, time_now=1588969248, diff=531)
+1519.955 (3) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: Zip file already exists, with 794 files
+1535.030 (3) Total entities for the zip file: 16 directories, 2892 files (0 skipped as non-modified), 412.3 MB
+1535.032 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 100 files added (on-disk size: 151857.7 KB)
+1535.033 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 200 files added (on-disk size: 151857.7 KB)
+1535.034 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 300 files added (on-disk size: 151857.7 KB)
+1535.035 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 400 files added (on-disk size: 151857.7 KB)
+1535.036 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 500 files added (on-disk size: 151857.7 KB)
+1535.037 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 600 files added (on-disk size: 151857.7 KB)
+1535.039 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 700 files added (on-disk size: 151857.7 KB)
+1535.040 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 800 files added (on-disk size: 151857.7 KB)
+1535.048 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 900 files added (on-disk size: 151857.7 KB)
+1535.056 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1000 files added (on-disk size: 151857.7 KB)
+1535.064 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1100 files added (on-disk size: 151857.7 KB)
+1535.073 (3) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1200 files added (on-disk size: 151857.7 KB)
+1535.076 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 73.3 MB added on this batch (74.2 MB, 2892 files batched, 441 (441) added so far); re-opening (prior size: 151857.7 KB)
+1999.025 (4) Opened log file at time: Fri, 08 May 2020 20:28:48 +0000 on https://online.petracc.org
+1999.026 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.1M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1999.092 (4) Free space on disk containing Updraft's temporary directory: 903048.4 MB
+1999.094 (4) Backup run: resumption=4, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (1999s ago), job type=backup, previous check-in=298.3s
+1999.095 (4) Scheduling a resumption (5) after 469 seconds (1588970197) in case this run gets aborted
+1999.097 (4) Checking if we have a zip executable available
+1999.098 (4) Zip engine: found/will use a binary zip: /usr/bin/zip
+1999.098 (4) Creation of backups of directories: had begun; will resume
+1999.100 (4) Beginning creation of dump of plugins (split every: 400 MB)
+1999.100 (4) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 1708 s)
+1999.102 (4) Beginning creation of dump of themes (split every: 400 MB)
+1999.103 (4) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 1354 s)
+1999.104 (4) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+1999.105 (4) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+1999.105 (4) finding files: 2020: adding to list (1)
+1999.106 (4) finding files: sb-instagram-feed-images: adding to list (2)
+1999.106 (4) finding files: js_composer: adding to list (3)
+1999.107 (4) finding files: 2019: adding to list (4)
+1999.107 (4) finding files: woocommerce_uploads: adding to list (5)
+1999.108 (4) finding files: wc-logs: adding to list (6)
+1999.108 (4) finding files: woocommerce-placeholder.png: adding to list (7)
+1999.108 (4) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+1999.109 (4) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+1999.109 (4) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+1999.110 (4) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+1999.110 (4) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+1999.111 (4) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+1999.111 (4) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+1999.111 (4) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+1999.112 (4) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+1999.112 (4) finding files: download-manager-files: adding to list (17)
+1999.113 (4) finding files: wpdm-cache: adding to list (18)
+1999.113 (4) Beginning creation of dump of uploads (split every: 400 MB)
+1999.115 (4) Terminate: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp exists with activity within the last 30 seconds (time_mod=1588969707, time_now=1588969728, diff=21, size=227971.8KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+1999.116 (4) Rescheduling resumption 5: moving to 589 seconds from now (1588970317)
+1999.118 (4) To decrease the likelihood of overlaps, increasing resumption interval to: 469 + 120 = 589
+2590.557 (5) Opened log file at time: Fri, 08 May 2020 20:38:39 +0000 on https://online.petracc.org
+2590.558 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.1M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+2590.621 (5) Free space on disk containing Updraft's temporary directory: 903032.7 MB
+2590.623 (5) Backup run: resumption=5, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (2590s ago), job type=backup, previous check-in=0.1s
+2590.624 (5) Scheduling a resumption (6) after 589 seconds (1588970908) in case this run gets aborted
+2590.915 (5) Checking if we have a zip executable available
+2590.917 (5) Zip engine: found/will use a binary zip: /usr/bin/zip
+2590.917 (5) Creation of backups of directories: had begun; will resume
+2590.919 (5) Beginning creation of dump of plugins (split every: 400 MB)
+2590.920 (5) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 2299 s)
+2590.922 (5) Beginning creation of dump of themes (split every: 400 MB)
+2590.922 (5) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 1945 s)
+2590.924 (5) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+2590.924 (5) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+2590.925 (5) finding files: 2020: adding to list (1)
+2590.925 (5) finding files: sb-instagram-feed-images: adding to list (2)
+2590.926 (5) finding files: js_composer: adding to list (3)
+2590.926 (5) finding files: 2019: adding to list (4)
+2590.927 (5) finding files: woocommerce_uploads: adding to list (5)
+2590.927 (5) finding files: wc-logs: adding to list (6)
+2590.928 (5) finding files: woocommerce-placeholder.png: adding to list (7)
+2590.928 (5) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+2590.929 (5) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+2590.929 (5) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+2590.930 (5) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+2590.930 (5) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+2590.931 (5) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+2590.931 (5) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+2590.932 (5) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+2590.932 (5) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+2590.932 (5) finding files: download-manager-files: adding to list (17)
+2590.933 (5) finding files: wpdm-cache: adding to list (18)
+2590.933 (5) Beginning creation of dump of uploads (split every: 400 MB)
+2590.934 (5) File exists (/home2/mactavi1/public_html/online/wp-content/updraft/backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1588969707, time_now=1588970319, diff=612)
+2591.158 (5) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: Zip file already exists, with 1235 files
+2604.603 (5) Total entities for the zip file: 16 directories, 2892 files (0 skipped as non-modified), 412.3 MB
+2604.605 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 100 files added (on-disk size: 227971.8 KB)
+2604.606 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 200 files added (on-disk size: 227971.8 KB)
+2604.607 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 300 files added (on-disk size: 227971.8 KB)
+2604.608 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 400 files added (on-disk size: 227971.8 KB)
+2604.609 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 500 files added (on-disk size: 227971.8 KB)
+2604.610 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 600 files added (on-disk size: 227971.8 KB)
+2604.611 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 700 files added (on-disk size: 227971.8 KB)
+2604.612 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 800 files added (on-disk size: 227971.8 KB)
+2604.613 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 900 files added (on-disk size: 227971.8 KB)
+2604.614 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1000 files added (on-disk size: 227971.8 KB)
+2604.616 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1100 files added (on-disk size: 227971.8 KB)
+2604.617 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1200 files added (on-disk size: 227971.8 KB)
+2604.623 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1300 files added (on-disk size: 227971.8 KB)
+2604.631 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1400 files added (on-disk size: 227971.8 KB)
+2604.639 (5) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1500 files added (on-disk size: 227971.8 KB)
+2604.644 (5) Adding batch to zip file (UpdraftPlus_BinZip): over 73.3 MB added on this batch (73.3 MB, 2892 files batched, 327 (327) added so far); re-opening (prior size: 227971.8 KB)
+3196.672 (6) Opened log file at time: Fri, 08 May 2020 20:48:45 +0000 on https://online.petracc.org
+3196.673 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.1M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+3196.737 (6) Free space on disk containing Updraft's temporary directory: 902952.2 MB
+3196.739 (6) Backup run: resumption=6, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (3196s ago), job type=backup
+3196.740 (6) Scheduling a resumption (7) after 589 seconds (1588971514) in case this run gets aborted
+3196.742 (6) Checking if we have a zip executable available
+3196.743 (6) Zip engine: found/will use a binary zip: /usr/bin/zip
+3196.743 (6) Creation of backups of directories: had begun; will resume
+3196.745 (6) Beginning creation of dump of plugins (split every: 400 MB)
+3196.745 (6) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 2905 s)
+3196.747 (6) Beginning creation of dump of themes (split every: 400 MB)
+3196.748 (6) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 2551 s)
+3196.749 (6) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+3196.750 (6) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+3196.751 (6) finding files: 2020: adding to list (1)
+3196.751 (6) finding files: sb-instagram-feed-images: adding to list (2)
+3196.751 (6) finding files: js_composer: adding to list (3)
+3196.752 (6) finding files: 2019: adding to list (4)
+3196.752 (6) finding files: woocommerce_uploads: adding to list (5)
+3196.753 (6) finding files: wc-logs: adding to list (6)
+3196.753 (6) finding files: woocommerce-placeholder.png: adding to list (7)
+3196.754 (6) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+3196.754 (6) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+3196.754 (6) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+3196.755 (6) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+3196.755 (6) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+3196.756 (6) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+3196.756 (6) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+3196.756 (6) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+3196.757 (6) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+3196.757 (6) finding files: download-manager-files: adding to list (17)
+3196.758 (6) finding files: wpdm-cache: adding to list (18)
+3196.758 (6) Beginning creation of dump of uploads (split every: 400 MB)
+3196.760 (6) Terminate: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp exists with activity within the last 30 seconds (time_mod=1588970904, time_now=1588970925, diff=21, size=303088.6KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+3196.761 (6) Rescheduling resumption 7: moving to 709 seconds from now (1588971634)
+3196.763 (6) To decrease the likelihood of overlaps, increasing resumption interval to: 589 + 120 = 709
+3969.211 (7) Opened log file at time: Fri, 08 May 2020 21:01:38 +0000 on https://online.petracc.org
+3969.212 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.7M | 20M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+3969.900 (7) Free space on disk containing Updraft's temporary directory: 902958.4 MB
+3969.903 (7) Backup run: resumption=7, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (3969s ago), job type=backup, previous check-in=0.1s
+3969.904 (7) Scheduling a resumption (8) after 709 seconds (1588972407) in case this run gets aborted
+3970.080 (7) Checking if we have a zip executable available
+3970.081 (7) Zip engine: found/will use a binary zip: /usr/bin/zip
+3970.082 (7) Creation of backups of directories: had begun; will resume
+3970.105 (7) Beginning creation of dump of plugins (split every: 400 MB)
+3970.105 (7) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 3679 s)
+3970.149 (7) Beginning creation of dump of themes (split every: 400 MB)
+3970.149 (7) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 3325 s)
+3970.151 (7) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+3970.152 (7) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+3970.152 (7) finding files: 2020: adding to list (1)
+3970.153 (7) finding files: sb-instagram-feed-images: adding to list (2)
+3970.153 (7) finding files: js_composer: adding to list (3)
+3970.153 (7) finding files: 2019: adding to list (4)
+3970.154 (7) finding files: woocommerce_uploads: adding to list (5)
+3970.154 (7) finding files: wc-logs: adding to list (6)
+3970.155 (7) finding files: woocommerce-placeholder.png: adding to list (7)
+3970.155 (7) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+3970.156 (7) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+3970.156 (7) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+3970.156 (7) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+3970.157 (7) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+3970.157 (7) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+3970.158 (7) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+3970.158 (7) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+3970.158 (7) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+3970.159 (7) finding files: download-manager-files: adding to list (17)
+3970.159 (7) finding files: wpdm-cache: adding to list (18)
+3970.160 (7) Beginning creation of dump of uploads (split every: 400 MB)
+3970.160 (7) File exists (/home2/mactavi1/public_html/online/wp-content/updraft/backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1588970904, time_now=1588971699, diff=795)
+3970.607 (7) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: Zip file already exists, with 1562 files
+3987.985 (7) Total entities for the zip file: 16 directories, 2892 files (0 skipped as non-modified), 412.3 MB
+3987.987 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 100 files added (on-disk size: 303088.6 KB)
+3987.988 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 200 files added (on-disk size: 303088.6 KB)
+3987.989 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 300 files added (on-disk size: 303088.6 KB)
+3987.990 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 400 files added (on-disk size: 303088.6 KB)
+3987.991 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 500 files added (on-disk size: 303088.6 KB)
+3987.992 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 600 files added (on-disk size: 303088.6 KB)
+3987.993 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 700 files added (on-disk size: 303088.6 KB)
+3987.994 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 800 files added (on-disk size: 303088.6 KB)
+3987.995 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 900 files added (on-disk size: 303088.6 KB)
+3987.996 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1000 files added (on-disk size: 303088.6 KB)
+3987.998 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1100 files added (on-disk size: 303088.6 KB)
+3987.999 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1200 files added (on-disk size: 303088.6 KB)
+3988.000 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1300 files added (on-disk size: 303088.6 KB)
+3988.001 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1400 files added (on-disk size: 303088.6 KB)
+3988.002 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1500 files added (on-disk size: 303088.6 KB)
+3988.007 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1600 files added (on-disk size: 303088.6 KB)
+3988.015 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1700 files added (on-disk size: 303088.6 KB)
+3988.024 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1800 files added (on-disk size: 303088.6 KB)
+3988.033 (7) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1900 files added (on-disk size: 303088.6 KB)
+3988.042 (7) Adding batch to zip file (UpdraftPlus_BinZip): over 73.3 MB added on this batch (73.4 MB, 2892 files batched, 431 (431) added so far); re-opening (prior size: 303088.6 KB)
+4763.452 (8) Opened log file at time: Fri, 08 May 2020 21:14:52 +0000 on https://online.petracc.org
+4763.453 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.2M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+4763.634 (8) Free space on disk containing Updraft's temporary directory: 902589.9 MB
+4763.636 (8) Backup run: resumption=8, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (4763s ago), job type=backup
+4763.637 (8) Time passed on previous resumptions: 0:291.3 1:292.2 2:0.9 3:298.3 4:0.1 5:? 6:0.1 7:?  (known: 6, max: 298)
+4763.638 (8) Based on the available data, we are bringing the resumption interval down to: 350 seconds
+4763.639 (8) Scheduling a resumption (9) after 350 seconds (1588972842) in case this run gets aborted
+4763.884 (8) Checking if we have a zip executable available
+4763.885 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+4763.886 (8) Creation of backups of directories: had begun; will resume
+4763.908 (8) Beginning creation of dump of plugins (split every: 400 MB)
+4763.909 (8) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 4472 s)
+4763.946 (8) Terminate: ziOaU9lR exists with activity within the last 30 seconds (time_mod=1588972492, time_now=1588972492, diff=0, size=368490.1KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+4763.947 (8) Rescheduling resumption 9: moving to 470 seconds from now (1588972962)
+4763.949 (8) To decrease the likelihood of overlaps, increasing resumption interval to: 350 + 120 = 470
+5336.837 (9) Opened log file at time: Fri, 08 May 2020 21:24:25 +0000 on https://online.petracc.org
+5336.838 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.2M | 20M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+5337.042 (9) Free space on disk containing Updraft's temporary directory: 902898.2 MB
+5337.045 (9) Backup run: resumption=9, nonce=38213f147f30, file_nonce=38213f147f30 begun at=1588967729 (5337s ago), job type=backup, previous check-in=0.5s
+5337.046 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 1) - will not schedule a further attempt until we see something useful happening this time
+5337.047 (9) Scheduling a resumption (10) after 470 seconds (1588973536); but the job will then be aborted unless something happens this time
+5337.260 (9) Creation of backups of directories: had begun; will resume
+5337.287 (9) Beginning creation of dump of plugins (split every: 400 MB)
+5337.288 (9) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-plugins.zip: this file has already been created (age: 5046 s)
+5337.358 (9) Beginning creation of dump of themes (split every: 400 MB)
+5337.359 (9) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-themes.zip: this file has already been created (age: 4692 s)
+5337.361 (9) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+5337.361 (9) Looking for candidates to backup in: /home2/mactavi1/public_html/online/wp-content/uploads
+5337.362 (9) finding files: 2020: adding to list (1)
+5337.362 (9) finding files: sb-instagram-feed-images: adding to list (2)
+5337.363 (9) finding files: js_composer: adding to list (3)
+5337.363 (9) finding files: 2019: adding to list (4)
+5337.364 (9) finding files: woocommerce_uploads: adding to list (5)
+5337.364 (9) finding files: wc-logs: adding to list (6)
+5337.365 (9) finding files: woocommerce-placeholder.png: adding to list (7)
+5337.365 (9) finding files: woocommerce-placeholder-300x300.png: adding to list (8)
+5337.366 (9) finding files: woocommerce-placeholder-1024x1024.png: adding to list (9)
+5337.366 (9) finding files: woocommerce-placeholder-150x150.png: adding to list (10)
+5337.367 (9) finding files: woocommerce-placeholder-768x768.png: adding to list (11)
+5337.367 (9) finding files: woocommerce-placeholder-200x200.png: adding to list (12)
+5337.368 (9) finding files: woocommerce-placeholder-200x140.png: adding to list (13)
+5337.368 (9) finding files: woocommerce-placeholder-500x500.png: adding to list (14)
+5337.368 (9) finding files: woocommerce-placeholder-100x100.png: adding to list (15)
+5337.369 (9) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+5337.369 (9) finding files: download-manager-files: adding to list (17)
+5337.370 (9) finding files: wpdm-cache: adding to list (18)
+5337.370 (9) Beginning creation of dump of uploads (split every: 400 MB)
+5337.371 (9) File exists (/home2/mactavi1/public_html/online/wp-content/updraft/backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1588972512, time_now=1588973066, diff=554)
+5337.791 (9) backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: Zip file already exists, with 1993 files
+5354.622 (9) Total entities for the zip file: 16 directories, 2892 files (0 skipped as non-modified), 412.3 MB
+5354.639 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 100 files added (on-disk size: 378297 KB)
+5354.640 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 200 files added (on-disk size: 378297 KB)
+5354.642 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 300 files added (on-disk size: 378297 KB)
+5354.643 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 400 files added (on-disk size: 378297 KB)
+5354.645 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 500 files added (on-disk size: 378297 KB)
+5354.647 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 600 files added (on-disk size: 378297 KB)
+5354.649 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 700 files added (on-disk size: 378297 KB)
+5354.650 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 800 files added (on-disk size: 378297 KB)
+5354.651 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 900 files added (on-disk size: 378297 KB)
+5354.653 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1000 files added (on-disk size: 378297 KB)
+5354.655 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1100 files added (on-disk size: 378297 KB)
+5354.656 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1200 files added (on-disk size: 378297 KB)
+5354.657 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1300 files added (on-disk size: 378297 KB)
+5354.658 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1400 files added (on-disk size: 378297 KB)
+5354.659 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1500 files added (on-disk size: 378297 KB)
+5354.661 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1600 files added (on-disk size: 378297 KB)
+5354.662 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1700 files added (on-disk size: 378297 KB)
+5354.663 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1800 files added (on-disk size: 378297 KB)
+5354.664 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 1900 files added (on-disk size: 378297 KB)
+5354.666 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 2000 files added (on-disk size: 378297 KB)
+5354.682 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 2100 files added (on-disk size: 378297 KB)
+5354.693 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 2200 files added (on-disk size: 378297 KB)
+5354.704 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 2300 files added (on-disk size: 378297 KB)
+5354.717 (9) Zip: backup_2020-05-08-1955_Petra_Christian_Centre_38213f147f30-uploads.zip.tmp: 2400 files added (on-disk size: 378297 KB)
+5354.728 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (22.9 MB, 2892 files batched, 501 (501) added so far); re-opening (prior size: 378297 KB)

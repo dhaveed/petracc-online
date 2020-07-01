@@ -1,0 +1,474 @@
+[2020-05-12 19:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:57 : INFO] - 
+ 
+[2020-05-12 19:52:57 : INFO] - Header for logs at time:  Tue, 12 May 2020 19:52:57 +0000 on https://online.petracc.org 
+[2020-05-12 19:52:57 : INFO] - WP: 5.4.1 
+[2020-05-12 19:52:57 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 19:52:57 : INFO] - MySQL: 5.7.29 
+[2020-05-12 19:52:57 : INFO] - WPLANG: en_US 
+[2020-05-12 19:52:57 : INFO] - Server: Apache 
+[2020-05-12 19:52:57 : INFO] - Outbound connections: N 
+[2020-05-12 19:52:57 : INFO] - safe_mode: 0 
+[2020-05-12 19:52:57 : INFO] - max_execution_time: 30 
+[2020-05-12 19:52:57 : INFO] - memory_limit: 256M (used: 13.6M | 18M) 
+[2020-05-12 19:52:57 : INFO] - multisite: N 
+[2020-05-12 19:52:57 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 19:52:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-05-12 19:52:57 : INFO] - Set semaphore last lock (smush) time to 2020-05-12 19:52:57 
+[2020-05-12 19:52:57 : INFO] - Semaphore lock (smush) complete 
+[2020-05-12 19:52:57 : INFO] - Processing task with ID : 289, and type 'smush' 
+[2020-05-12 19:52:57 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:57 : INFO] - 100 
+[2020-05-12 19:52:58 : INFO] - Backing up the original image - 2020/05/baim-hanif-pYWuOMhtc6k-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 19:52:58 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:58 : INFO] - 100 
+[2020-05-12 19:52:58 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:58 : INFO] - 100 
+[2020-05-12 19:52:59 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:59 : INFO] - 100 
+[2020-05-12 19:52:59 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:52:59 : INFO] - 100 
+[2020-05-12 19:53:00 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:00 : INFO] - 100 
+[2020-05-12 19:53:00 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:00 : INFO] - 100 
+[2020-05-12 19:53:01 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:01 : INFO] - 100 
+[2020-05-12 19:53:01 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:01 : INFO] - 100 
+[2020-05-12 19:53:02 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:02 : INFO] - 100 
+[2020-05-12 19:53:03 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:03 : INFO] - 100 
+[2020-05-12 19:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:04 : INFO] - 100 
+[2020-05-12 19:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:04 : INFO] - 100 
+[2020-05-12 19:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:05 : INFO] - 100 
+[2020-05-12 19:53:06 : INFO] - Re_Smush_It_Task with attachment ID : 87388, autocreated on : May 12, 2020 07:47:55 
+[2020-05-12 19:53:06 : INFO] - 100 
+[2020-05-12 19:53:06 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/baim-hanif-pYWuOMhtc6k-unsplash-scaled.jpg.The file was compressed from 166.80 KB to 136.02 KB saving 18.45 percent using WP-Optimize 
+[2020-05-12 19:53:06 : INFO] - Completed processing task with ID : 289, and type 'smush' 
+[2020-05-12 19:53:06 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-12 19:53:06 : INFO] - Semaphore (smush) unlocked 
+[2020-05-12 19:53:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-05-12 19:53:06 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-12 19:53:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-05-12 20:41:44 : INFO] - 
+ 
+[2020-05-12 20:41:44 : INFO] - Header for logs at time:  Tue, 12 May 2020 20:41:44 +0000 on https://online.petracc.org 
+[2020-05-12 20:41:44 : INFO] - WP: 5.4.1 
+[2020-05-12 20:41:44 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 20:41:44 : INFO] - MySQL: 5.7.29 
+[2020-05-12 20:41:44 : INFO] - WPLANG: en_US 
+[2020-05-12 20:41:44 : INFO] - Server: Apache 
+[2020-05-12 20:41:44 : INFO] - Outbound connections: N 
+[2020-05-12 20:41:44 : INFO] - safe_mode: 0 
+[2020-05-12 20:41:44 : INFO] - max_execution_time: 30 
+[2020-05-12 20:41:44 : INFO] - memory_limit: 256M (used: 16.7M | 22M) 
+[2020-05-12 20:41:44 : INFO] - multisite: N 
+[2020-05-12 20:41:44 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 20:41:44 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-05-12 20:55:39 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 20:57:57 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 20:59:58 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:02 : INFO] - 
+ 
+[2020-05-12 21:01:02 : INFO] - Header for logs at time:  Tue, 12 May 2020 21:01:02 +0000 on https://online.petracc.org 
+[2020-05-12 21:01:02 : INFO] - WP: 5.4.1 
+[2020-05-12 21:01:02 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 21:01:02 : INFO] - MySQL: 5.7.29 
+[2020-05-12 21:01:02 : INFO] - WPLANG: en_US 
+[2020-05-12 21:01:02 : INFO] - Server: Apache 
+[2020-05-12 21:01:02 : INFO] - Outbound connections: N 
+[2020-05-12 21:01:02 : INFO] - safe_mode: 0 
+[2020-05-12 21:01:02 : INFO] - max_execution_time: 30 
+[2020-05-12 21:01:02 : INFO] - memory_limit: 256M (used: 14.4M | 20M) 
+[2020-05-12 21:01:02 : INFO] - multisite: N 
+[2020-05-12 21:01:02 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 21:01:02 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-05-12 21:01:02 : INFO] - Set semaphore last lock (smush) time to 2020-05-12 21:01:02 
+[2020-05-12 21:01:02 : INFO] - Semaphore lock (smush) complete 
+[2020-05-12 21:01:02 : INFO] - Processing task with ID : 290, and type 'smush' 
+[2020-05-12 21:01:02 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:02 : INFO] - 100 
+[2020-05-12 21:01:05 : INFO] - Backing up the original image - 2020/05/priscilla-du-preez-x_jAYPjskYI-unsplash-min-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 21:01:06 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:06 : INFO] - 100 
+[2020-05-12 21:01:06 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:06 : INFO] - 100 
+[2020-05-12 21:01:07 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:07 : INFO] - 100 
+[2020-05-12 21:01:07 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:07 : INFO] - 100 
+[2020-05-12 21:01:08 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:08 : INFO] - 100 
+[2020-05-12 21:01:08 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:08 : INFO] - 100 
+[2020-05-12 21:01:09 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:09 : INFO] - 100 
+[2020-05-12 21:01:09 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:09 : INFO] - 100 
+[2020-05-12 21:01:10 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:10 : INFO] - 100 
+[2020-05-12 21:01:11 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:11 : INFO] - 100 
+[2020-05-12 21:01:15 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:15 : INFO] - 100 
+[2020-05-12 21:01:15 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:15 : INFO] - 100 
+[2020-05-12 21:01:16 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:16 : INFO] - 100 
+[2020-05-12 21:01:17 : INFO] - Re_Smush_It_Task with attachment ID : 87390, autocreated on : May 12, 2020 08:55:39 
+[2020-05-12 21:01:17 : INFO] - 100 
+[2020-05-12 21:01:18 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/priscilla-du-preez-x_jAYPjskYI-unsplash-min-scaled.jpg.The file was compressed from 458.61 KB to 407.57 KB saving 11.13 percent using WP-Optimize 
+[2020-05-12 21:01:18 : INFO] - Completed processing task with ID : 290, and type 'smush' 
+[2020-05-12 21:01:18 : INFO] - Processing task with ID : 291, and type 'smush' 
+[2020-05-12 21:01:18 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:18 : INFO] - 100 
+[2020-05-12 21:01:19 : INFO] - Backing up the original image - 2020/05/joao-silas-SA1gpcN-Pz4-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 21:01:19 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:19 : INFO] - 100 
+[2020-05-12 21:01:20 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:20 : INFO] - 100 
+[2020-05-12 21:01:22 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:22 : INFO] - 100 
+[2020-05-12 21:01:22 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:22 : INFO] - 100 
+[2020-05-12 21:01:24 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:24 : INFO] - 100 
+[2020-05-12 21:01:25 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:25 : INFO] - 100 
+[2020-05-12 21:01:26 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:26 : INFO] - 100 
+[2020-05-12 21:01:26 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:26 : INFO] - 100 
+[2020-05-12 21:01:27 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:27 : INFO] - 100 
+[2020-05-12 21:01:28 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:28 : INFO] - 100 
+[2020-05-12 21:01:29 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:29 : INFO] - 100 
+[2020-05-12 21:01:30 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:30 : INFO] - 100 
+[2020-05-12 21:01:30 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:30 : INFO] - 100 
+[2020-05-12 21:01:32 : INFO] - Re_Smush_It_Task with attachment ID : 87391, autocreated on : May 12, 2020 08:57:57 
+[2020-05-12 21:01:32 : INFO] - 100 
+[2020-05-12 21:01:33 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/joao-silas-SA1gpcN-Pz4-unsplash-scaled.jpg.The file was compressed from 495.01 KB to 459.97 KB saving 7.08 percent using WP-Optimize 
+[2020-05-12 21:01:33 : INFO] - Completed processing task with ID : 291, and type 'smush' 
+[2020-05-12 21:01:33 : INFO] - Set semaphore last lock (smush) time to 2020-05-12 21:01:33 
+[2020-05-12 21:01:33 : INFO] - Processing task with ID : 292, and type 'smush' 
+[2020-05-12 21:01:33 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:33 : INFO] - 100 
+[2020-05-12 21:01:35 : INFO] - Backing up the original image - 2020/05/PETCC-56-min-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 21:01:37 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:37 : INFO] - 100 
+[2020-05-12 21:01:37 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:37 : INFO] - 100 
+[2020-05-12 21:01:38 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:38 : INFO] - 100 
+[2020-05-12 21:01:38 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:38 : INFO] - 100 
+[2020-05-12 21:01:39 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:39 : INFO] - 100 
+[2020-05-12 21:01:40 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:40 : INFO] - 100 
+[2020-05-12 21:01:40 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:40 : INFO] - 100 
+[2020-05-12 21:01:41 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:41 : INFO] - 100 
+[2020-05-12 21:01:41 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:41 : INFO] - 100 
+[2020-05-12 21:01:42 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:42 : INFO] - 100 
+[2020-05-12 21:01:44 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:44 : INFO] - 100 
+[2020-05-12 21:01:45 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:45 : INFO] - 100 
+[2020-05-12 21:01:45 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:45 : INFO] - 100 
+[2020-05-12 21:01:46 : INFO] - Re_Smush_It_Task with attachment ID : 87392, autocreated on : May 12, 2020 08:59:58 
+[2020-05-12 21:01:46 : INFO] - 100 
+[2020-05-12 21:01:47 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/PETCC-56-min-scaled.jpg.The file was compressed from 446.06 KB to 419.29 KB saving 6 percent using WP-Optimize 
+[2020-05-12 21:01:47 : INFO] - Completed processing task with ID : 292, and type 'smush' 
+[2020-05-12 21:01:47 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-12 21:01:47 : INFO] - Semaphore (smush) unlocked 
+[2020-05-12 21:01:47 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-05-12 21:01:47 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-12 21:01:47 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2020-05-12 21:02:07 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:24 : INFO] - 
+ 
+[2020-05-12 21:11:24 : INFO] - Header for logs at time:  Tue, 12 May 2020 21:11:24 +0000 on https://online.petracc.org 
+[2020-05-12 21:11:24 : INFO] - WP: 5.4.1 
+[2020-05-12 21:11:24 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 21:11:24 : INFO] - MySQL: 5.7.29 
+[2020-05-12 21:11:24 : INFO] - WPLANG: en_US 
+[2020-05-12 21:11:24 : INFO] - Server: Apache 
+[2020-05-12 21:11:24 : INFO] - Outbound connections: N 
+[2020-05-12 21:11:24 : INFO] - safe_mode: 0 
+[2020-05-12 21:11:24 : INFO] - max_execution_time: 30 
+[2020-05-12 21:11:24 : INFO] - memory_limit: 256M (used: 13.2M | 14M) 
+[2020-05-12 21:11:24 : INFO] - multisite: N 
+[2020-05-12 21:11:24 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 21:11:24 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-05-12 21:11:24 : INFO] - Set semaphore last lock (smush) time to 2020-05-12 21:11:24 
+[2020-05-12 21:11:24 : INFO] - Semaphore lock (smush) complete 
+[2020-05-12 21:11:24 : INFO] - Processing task with ID : 293, and type 'smush' 
+[2020-05-12 21:11:24 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:24 : INFO] - 100 
+[2020-05-12 21:11:26 : INFO] - Backing up the original image - 2020/05/PETCC-56-min-1-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 21:11:26 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:26 : INFO] - 100 
+[2020-05-12 21:11:27 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:27 : INFO] - 100 
+[2020-05-12 21:11:28 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:28 : INFO] - 100 
+[2020-05-12 21:11:28 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:28 : INFO] - 100 
+[2020-05-12 21:11:29 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:29 : INFO] - 100 
+[2020-05-12 21:11:30 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:30 : INFO] - 100 
+[2020-05-12 21:11:31 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:31 : INFO] - 100 
+[2020-05-12 21:11:31 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:31 : INFO] - 100 
+[2020-05-12 21:11:32 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:32 : INFO] - 100 
+[2020-05-12 21:11:33 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:33 : INFO] - 100 
+[2020-05-12 21:11:35 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:35 : INFO] - 100 
+[2020-05-12 21:11:36 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:36 : INFO] - 100 
+[2020-05-12 21:11:36 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:36 : INFO] - 100 
+[2020-05-12 21:11:38 : INFO] - Re_Smush_It_Task with attachment ID : 87393, autocreated on : May 12, 2020 09:02:06 
+[2020-05-12 21:11:38 : INFO] - 100 
+[2020-05-12 21:11:39 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/PETCC-56-min-1-scaled.jpg.The file was compressed from 446.06 KB to 419.29 KB saving 6 percent using WP-Optimize 
+[2020-05-12 21:11:39 : INFO] - Completed processing task with ID : 293, and type 'smush' 
+[2020-05-12 21:11:39 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-12 21:11:39 : INFO] - Semaphore (smush) unlocked 
+[2020-05-12 21:11:39 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-05-12 21:11:39 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-12 21:11:39 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-05-12 21:12:09 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:39 : INFO] - 
+ 
+[2020-05-12 21:21:39 : INFO] - Header for logs at time:  Tue, 12 May 2020 21:21:39 +0000 on https://online.petracc.org 
+[2020-05-12 21:21:39 : INFO] - WP: 5.4.1 
+[2020-05-12 21:21:39 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 21:21:39 : INFO] - MySQL: 5.7.29 
+[2020-05-12 21:21:39 : INFO] - WPLANG: en_US 
+[2020-05-12 21:21:39 : INFO] - Server: Apache 
+[2020-05-12 21:21:39 : INFO] - Outbound connections: N 
+[2020-05-12 21:21:39 : INFO] - safe_mode: 0 
+[2020-05-12 21:21:39 : INFO] - max_execution_time: 30 
+[2020-05-12 21:21:39 : INFO] - memory_limit: 256M (used: 13.2M | 14M) 
+[2020-05-12 21:21:39 : INFO] - multisite: N 
+[2020-05-12 21:21:39 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 21:21:39 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-05-12 21:21:39 : INFO] - Set semaphore last lock (smush) time to 2020-05-12 21:21:39 
+[2020-05-12 21:21:39 : INFO] - Semaphore lock (smush) complete 
+[2020-05-12 21:21:39 : INFO] - Processing task with ID : 294, and type 'smush' 
+[2020-05-12 21:21:39 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:39 : INFO] - 100 
+[2020-05-12 21:21:42 : INFO] - Backing up the original image - 2020/05/jisun-han-GYYeBqVwpZI-unsplash-min-scaled-updraft-pre-smush-original.jpg 
+[2020-05-12 21:21:42 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:42 : INFO] - 100 
+[2020-05-12 21:21:42 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:42 : INFO] - 100 
+[2020-05-12 21:21:43 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:43 : INFO] - 100 
+[2020-05-12 21:21:44 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:44 : INFO] - 100 
+[2020-05-12 21:21:44 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:44 : INFO] - 100 
+[2020-05-12 21:21:45 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:45 : INFO] - 100 
+[2020-05-12 21:21:45 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:45 : INFO] - 100 
+[2020-05-12 21:21:46 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:46 : INFO] - 100 
+[2020-05-12 21:21:46 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:46 : INFO] - 100 
+[2020-05-12 21:21:47 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:47 : INFO] - 100 
+[2020-05-12 21:21:49 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:49 : INFO] - 100 
+[2020-05-12 21:21:50 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:50 : INFO] - 100 
+[2020-05-12 21:21:51 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:51 : INFO] - 100 
+[2020-05-12 21:21:52 : INFO] - Re_Smush_It_Task with attachment ID : 87394, autocreated on : May 12, 2020 09:12:09 
+[2020-05-12 21:21:52 : INFO] - 100 
+[2020-05-12 21:21:53 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/jisun-han-GYYeBqVwpZI-unsplash-min-scaled.jpg.The file was compressed from 498.33 KB to 434.06 KB saving 12.9 percent using WP-Optimize 
+[2020-05-12 21:21:53 : INFO] - Completed processing task with ID : 294, and type 'smush' 
+[2020-05-12 21:21:53 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-12 21:21:53 : INFO] - Semaphore (smush) unlocked 
+[2020-05-12 21:21:53 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-05-12 21:21:53 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-12 21:21:53 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-05-12 21:37:18 : INFO] - 
+ 
+[2020-05-12 21:37:18 : INFO] - Header for logs at time:  Tue, 12 May 2020 21:37:18 +0000 on https://online.petracc.org 
+[2020-05-12 21:37:18 : INFO] - WP: 5.4.1 
+[2020-05-12 21:37:18 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-12 21:37:18 : INFO] - MySQL: 5.7.29 
+[2020-05-12 21:37:18 : INFO] - WPLANG: en_US 
+[2020-05-12 21:37:18 : INFO] - Server: Apache 
+[2020-05-12 21:37:18 : INFO] - Outbound connections: N 
+[2020-05-12 21:37:18 : INFO] - safe_mode: 0 
+[2020-05-12 21:37:18 : INFO] - max_execution_time: 30 
+[2020-05-12 21:37:18 : INFO] - memory_limit: 256M (used: 17.1M | 20M) 
+[2020-05-12 21:37:18 : INFO] - multisite: N 
+[2020-05-12 21:37:18 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-12 21:37:18 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-05-13 21:19:25 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:29 : INFO] - 
+ 
+[2020-05-13 21:24:29 : INFO] - Header for logs at time:  Wed, 13 May 2020 21:24:29 +0000 on https://online.petracc.org 
+[2020-05-13 21:24:29 : INFO] - WP: 5.4.1 
+[2020-05-13 21:24:29 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-13 21:24:29 : INFO] - MySQL: 5.7.29 
+[2020-05-13 21:24:29 : INFO] - WPLANG: en_US 
+[2020-05-13 21:24:29 : INFO] - Server: Apache 
+[2020-05-13 21:24:29 : INFO] - Outbound connections: N 
+[2020-05-13 21:24:29 : INFO] - safe_mode: 0 
+[2020-05-13 21:24:29 : INFO] - max_execution_time: 30 
+[2020-05-13 21:24:29 : INFO] - memory_limit: 256M (used: 13.5M | 18M) 
+[2020-05-13 21:24:29 : INFO] - multisite: N 
+[2020-05-13 21:24:29 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-13 21:24:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-05-13 21:24:29 : INFO] - Set semaphore last lock (smush) time to 2020-05-13 21:24:29 
+[2020-05-13 21:24:29 : INFO] - Semaphore lock (smush) complete 
+[2020-05-13 21:24:29 : INFO] - Processing task with ID : 295, and type 'smush' 
+[2020-05-13 21:24:29 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:29 : INFO] - 100 
+[2020-05-13 21:24:31 : INFO] - Backing up the original image - 2020/05/aj_aaaab-UuGGxuBfYic-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2020-05-13 21:24:31 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:31 : INFO] - 100 
+[2020-05-13 21:24:32 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:32 : INFO] - 100 
+[2020-05-13 21:24:33 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:33 : INFO] - 100 
+[2020-05-13 21:24:33 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:33 : INFO] - 100 
+[2020-05-13 21:24:34 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:34 : INFO] - 100 
+[2020-05-13 21:24:34 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:34 : INFO] - 100 
+[2020-05-13 21:24:35 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:35 : INFO] - 100 
+[2020-05-13 21:24:35 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:35 : INFO] - 100 
+[2020-05-13 21:24:36 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:36 : INFO] - 100 
+[2020-05-13 21:24:37 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:37 : INFO] - 100 
+[2020-05-13 21:24:39 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:39 : INFO] - 100 
+[2020-05-13 21:24:40 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:40 : INFO] - 100 
+[2020-05-13 21:24:40 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:40 : INFO] - 100 
+[2020-05-13 21:24:42 : INFO] - Re_Smush_It_Task with attachment ID : 87398, autocreated on : May 13, 2020 09:19:25 
+[2020-05-13 21:24:42 : INFO] - 100 
+[2020-05-13 21:24:43 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/aj_aaaab-UuGGxuBfYic-unsplash-scaled.jpg.The file was compressed from 339.78 KB to 307.00 KB saving 9.65 percent using WP-Optimize 
+[2020-05-13 21:24:43 : INFO] - Completed processing task with ID : 295, and type 'smush' 
+[2020-05-13 21:24:43 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-13 21:24:43 : INFO] - Semaphore (smush) unlocked 
+[2020-05-13 21:24:43 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-05-13 21:24:43 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-13 21:24:43 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-05-13 21:46:09 : INFO] - 
+ 
+[2020-05-13 21:46:09 : INFO] - Header for logs at time:  Wed, 13 May 2020 21:46:09 +0000 on https://online.petracc.org 
+[2020-05-13 21:46:09 : INFO] - WP: 5.4.1 
+[2020-05-13 21:46:09 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-13 21:46:09 : INFO] - MySQL: 5.7.29 
+[2020-05-13 21:46:09 : INFO] - WPLANG: en_US 
+[2020-05-13 21:46:09 : INFO] - Server: Apache 
+[2020-05-13 21:46:09 : INFO] - Outbound connections: N 
+[2020-05-13 21:46:09 : INFO] - safe_mode: 0 
+[2020-05-13 21:46:09 : INFO] - max_execution_time: 30 
+[2020-05-13 21:46:09 : INFO] - memory_limit: 256M (used: 14.2M | 18M) 
+[2020-05-13 21:46:09 : INFO] - multisite: N 
+[2020-05-13 21:46:09 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-13 21:46:09 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-05-15 15:17:33 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:02 : INFO] - 
+ 
+[2020-05-15 15:23:02 : INFO] - Header for logs at time:  Fri, 15 May 2020 15:23:02 +0000 on https://online.petracc.org 
+[2020-05-15 15:23:02 : INFO] - WP: 5.4.1 
+[2020-05-15 15:23:02 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-15 15:23:02 : INFO] - MySQL: 5.7.29 
+[2020-05-15 15:23:02 : INFO] - WPLANG: en_US 
+[2020-05-15 15:23:02 : INFO] - Server: Apache 
+[2020-05-15 15:23:02 : INFO] - Outbound connections: N 
+[2020-05-15 15:23:02 : INFO] - safe_mode: 0 
+[2020-05-15 15:23:02 : INFO] - max_execution_time: 30 
+[2020-05-15 15:23:02 : INFO] - memory_limit: 256M (used: 13.4M | 14M) 
+[2020-05-15 15:23:02 : INFO] - multisite: N 
+[2020-05-15 15:23:02 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-15 15:23:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-05-15 15:23:02 : INFO] - Set semaphore last lock (smush) time to 2020-05-15 15:23:02 
+[2020-05-15 15:23:02 : INFO] - Semaphore lock (smush) complete 
+[2020-05-15 15:23:02 : INFO] - Processing task with ID : 296, and type 'smush' 
+[2020-05-15 15:23:02 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:02 : INFO] - 100 
+[2020-05-15 15:23:07 : INFO] - Backing up the original image - 2020/05/stephen-radford-86QxYjwq8LU-unsplash-min-scaled-updraft-pre-smush-original.jpg 
+[2020-05-15 15:23:07 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:07 : INFO] - 100 
+[2020-05-15 15:23:11 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:11 : INFO] - 100 
+[2020-05-15 15:23:11 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:11 : INFO] - 100 
+[2020-05-15 15:23:13 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:13 : INFO] - 100 
+[2020-05-15 15:23:14 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:14 : INFO] - 100 
+[2020-05-15 15:23:14 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:14 : INFO] - 100 
+[2020-05-15 15:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:16 : INFO] - 100 
+[2020-05-15 15:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:20 : INFO] - 100 
+[2020-05-15 15:23:21 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:21 : INFO] - 100 
+[2020-05-15 15:23:22 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:22 : INFO] - 100 
+[2020-05-15 15:23:24 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:24 : INFO] - 100 
+[2020-05-15 15:23:24 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:24 : INFO] - 100 
+[2020-05-15 15:23:26 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:26 : INFO] - 100 
+[2020-05-15 15:23:27 : INFO] - Re_Smush_It_Task with attachment ID : 87416, autocreated on : May 15, 2020 03:17:33 
+[2020-05-15 15:23:27 : INFO] - 100 
+[2020-05-15 15:23:28 : INFO] - Successfully optimized the image - /home2/mactavi1/public_html/online/wp-content/uploads/2020/05/stephen-radford-86QxYjwq8LU-unsplash-min-scaled.jpg.The file was compressed from 385.32 KB to 370.53 KB saving 3.84 percent using WP-Optimize 
+[2020-05-15 15:23:28 : INFO] - Completed processing task with ID : 296, and type 'smush' 
+[2020-05-15 15:23:28 : INFO] - Set semaphore last lock (smush) time to 2020-05-15 15:23:28 
+[2020-05-15 15:23:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-05-15 15:23:28 : INFO] - Semaphore (smush) unlocked 
+[2020-05-15 15:23:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-05-15 15:23:28 : INFO] - Semaphore (smush, wpr0_options) was successfully cleaned up 
+[2020-05-15 15:23:28 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-05-15 16:01:34 : INFO] - 
+ 
+[2020-05-15 16:01:35 : INFO] - Header for logs at time:  Fri, 15 May 2020 16:01:34 +0000 on https://online.petracc.org 
+[2020-05-15 16:01:35 : INFO] - WP: 5.4.1 
+[2020-05-15 16:01:35 : INFO] - PHP: 7.2.30 (litespeed, Linux wgh15.whogohost.com 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) 
+[2020-05-15 16:01:35 : INFO] - MySQL: 5.7.29 
+[2020-05-15 16:01:35 : INFO] - WPLANG: en_US 
+[2020-05-15 16:01:35 : INFO] - Server: Apache 
+[2020-05-15 16:01:35 : INFO] - Outbound connections: N 
+[2020-05-15 16:01:35 : INFO] - safe_mode: 0 
+[2020-05-15 16:01:35 : INFO] - max_execution_time: 30 
+[2020-05-15 16:01:35 : INFO] - memory_limit: 256M (used: 19.5M | 22M) 
+[2020-05-15 16:01:35 : INFO] - multisite: N 
+[2020-05-15 16:01:35 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-05-15 16:01:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
